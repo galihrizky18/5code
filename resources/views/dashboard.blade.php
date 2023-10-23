@@ -4,6 +4,6 @@
     @endslot
 </x-header>
 
-<h1>Love You kaka HERUU GANTENGSS</h1>
+<h1>Ini Dashboard</h1>
 
 <x-footer></x-footer>
