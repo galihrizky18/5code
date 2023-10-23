@@ -4,6 +4,6 @@
     @endslot
 </x-header>
 
-<h1>ini Dashboard</h1>
+<h1>Hyyy Cwok cwok Gantengsss</h1>
 
 <x-footer></x-footer>
