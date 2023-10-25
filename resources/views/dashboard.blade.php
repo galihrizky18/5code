@@ -4,6 +4,6 @@
     @endslot
 </x-header>
 
-<h1>Ini Dashboard</h1>
+<x-logo-team></x-logo-team>
 
 <x-footer></x-footer>

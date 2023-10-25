@@ -8,9 +8,8 @@
     <link rel="stylesheet" href="css/main.css">
     <title>{{ $title ?? config('app.name') }}</title>
 
-    @vite([])
+    @vite('resources/css/app.css')
 </head>
 
 <body>
-
     {{ $slot }}
